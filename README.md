@@ -1,8 +1,8 @@
 # data607_tidyverse_queens_crash
 
-Initial Description and Link: 
+Initial Description and Links: 
 * Demonstrates how to clean data and visualize geographical data using ggplot:
-
+https://github.com/sleepysloth12/data607_tidyverse_queens_crash/blob/main/jjimenez_tidyverse_queens_carcrash.Rmd
 * Original Data set Link:
 https://www.kaggle.com/datasets/nagasai524/latest-new-york-motor-vehicle-collisions-crashes?resource=download
 * Google Drive Data Set Link:
