@@ -8,4 +8,5 @@ https://www.kaggle.com/datasets/nagasai524/latest-new-york-motor-vehicle-collisi
 * Google Drive Data Set Link:
 https://drive.google.com/file/d/1Nxkb8HtqYIKypxxYx40XqxlHUjq4Cvaf/view?usp=sharing
 
-  
+*Average Number of Crashes per ZIP Code in Queens for 2012-2023 (yearly animation):
+https://github.com/sleepysloth12/data607_tidyverse_queens_crash/blob/main/avg_crashes_per_zip_year_map.gif
